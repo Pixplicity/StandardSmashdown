@@ -44,7 +44,7 @@ Due to this method, the player at `D` always has the highest score.
 
 ### The official Standard Rules for Smashdown Ping-Pong
 
-The official rules are currently at discussing. Common opinion has reached a consensus that it is not allowed to hinder other players by e.g. getting in their way, or by hitting 'easy' balls that other players can use to eliminate an opponent, with the following exception:
+The official rules are currently at discussion. Common opinion has reached a consensus that it is not allowed to hinder other players by e.g. getting in their way or by hitting 'easy' balls that other players can use to eliminate an opponent, with the following exception:
 
 _When the player at position `D` reaches a score of ten or higher, the player at `C` gets permission to serve 'easy' balls to player `B` in order to attempt elimination of `D`_.
 
