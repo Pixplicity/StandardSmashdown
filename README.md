@@ -27,11 +27,19 @@ The player at position `A` serves the first ball. The ball should be returned by
 
 ### Keeping Score
 
-TODO
+In Standard Smashdown, each player plays for themselves. Scores are individual, and therefore each player is required to keep their own score.
+
+* When a point is scored (the way one would could in regular tabletennis play), each active player receives one point, with the exception of the losing player.
+* The losing player loses all their points.
+* Players in line do not receive points, this includes the player first in line who enters spot `A`.
+ 
+Example: player B plays a ball that D is unable to return. Player A, B and C each score a point and move on to their adjacent spots. Player D loses all their points. The new player at `A` starts with zero points.
+
+Due to this method, the player at `D` always has the highest score.
 
 ### The official Standard Rules for Smashdown Ping-Pong
 
-TODO
+
 
 ### Licensing
 
