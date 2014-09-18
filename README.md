@@ -19,7 +19,11 @@ Because there is no unambiguous spec, implementations have diverged considerably
 
 ### How to play
 
-TODO
+Standard Smashdown is developed to allow any number of players above 4 to play simultaneously at a single table without running around it. At any given moment there are only 4 active players at the table, at the regular position as if they were playing doubles.
+
+![Player position indications for Standard Smashdown](https://i.imgur.com/As0zVoN.png)
+
+The player at position `A` serves the first ball. The ball should be returned by player `C`, then player `B`, then `D` followed again by `A` (and so on). Whenever a point is scored, the losing player leaves the table and the empty spot is filled by the other players by shifting clockwise until quadrant `A` is vacant. A new player that was waiting before now joins the game from quadrant `A` and gets to serve. The losing player takes their place at the end of the waiting line.
 
 ### Keeping Score
 
