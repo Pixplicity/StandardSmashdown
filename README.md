@@ -35,4 +35,4 @@ TODO
 
 ### Licensing
 
-We invite everyone to play Standard Smashdown and to create, adapt or reject it's rules and regulations. Tell us what works, what doesn't, or why we should call it *Common Smashdown* or *Strict Smashdown* instead.
+We invite everyone to play Standard Smashdown and to create, adapt or reject its rules and regulations. Tell us what works, what doesn't, or why we should call it *Common Smashdown* or *Strict Smashdown* instead.
