@@ -39,9 +39,16 @@ In Standard Smashdown, each player plays for themselves. Scores are individual, 
 * The losing player loses all their points.
 * Players in line do not receive points, this includes the player first in line who enters spot `A`.
  
-Example: player B plays a ball that D is unable to return. Player A, B and C each score a point and move on to their adjacent spots. Player D loses all their points. The new player at `A` starts with zero points.
+_Example: player B plays a ball that D is unable to return. Player A, B and C each score a point and move on to their adjacent spots. Player D loses all their points. The new player at `A` starts with zero points._
 
 Due to this method, the player at `D` always has the highest score.
+
+#### Alternative scoring
+
+To avoid hinder (see next section), alternative scoring variants have been proposed.
+
+* The first alternative prohibits awarding points to the player who's on the same side as the losing player. In the previous example, points would be awarded to A and B, but not to C. This discourages player C to help player B eliminate player D.
+* The second alternative is more complicated and is inspired by the classical rules of rond-the-tafel ping pong. The player who makes the point (in the example: player B) is the only one receiving points, and the amount of points awarded equals the amount of points the losing player (D) loses + 1. In the example, if D were to have 10 points at the time of losing, player B would be awarded 11 points. This method is particularly suitable for new players because it causes enough confusion about points (e.g., the player at position `D` is no longer necessarily the player with the most points) to make each player feel confident about their own score.
 
 
 ### The official Standard Rules for Smashdown Ping-Pong
